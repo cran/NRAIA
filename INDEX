@@ -13,6 +13,7 @@ O.xylene                O-xylene reaction data
 PCB                     PCB concentrations in Lake Cayuga fish
 Pinene                  Alpha-pinene and by-products
 Pinene2                 Alpha-pinene and by-products
+plotfit                 Plot x-y data and a fitted model
 Rumford                 Count Rumford's cooling data
 Sacch2                  Pharmacokinetics of saccharin
 Saccharin               Elimination of saccharin
